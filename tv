@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1, Sky F1
+https://list.iptvcat.com/my_list/s/42326e57dab716c534811933997be039.m3u8
+
+#EXTINF:-1, sky sport main event
+https://list.iptvcat.com/my_list/s/5c72891194b308b813e5a309a5ba4c37.m3u8
+
+#EXTINF:-1, Sky sport premier league 1
+https://list.iptvcat.com/my_list/s/adf02120bd32feb49eb6365ffba09c5d.m3u8
+
+#EXTINF:-1, Bt sports 1
+http://198.27.94.105/hls/bt1_1.m3u8
+
+#EXTINF:-1, Bt sports 2
+http://198.27.94.105/hls/bt2_1.m3u8
+
+#EXTINF:-1, Sky sports 1
+http://198.27.94.105/hls/skysports1_1.m3u8
+
+#EXTINF:-1, Sky sports 2
+http://198.27.94.105/hls/skysports2_1.m3u8
+
+#EXTINF:-1, Sky sports 3
+http://198.27.94.105/hls/skysports3_1.m3u8
+
+#EXTINF:-1, Sky sports 4
+http://198.27.94.105/hls/skysports4_1.m3u8
+
+#EXTINF:-1, Sky sport premier league2
+https://list.iptvcat.com/my_list/s/ccfad96396d618c27e1753c3bce00660.m3u8
+
+#EXTINF:-1, Sky sport premier league 3
+https://list.iptvcat.com/my_list/s/11c48fdb378d7bba1906b07464cbcb91.m3u8
+
+#EXTINF:-1, Bein sports 1
+https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8
+
+#EXTINF:-1, Bein sports 2
+https://list.iptvcat.com/my_list/s/4d2949a6990155b6aaef37949eeff148.m3u8
+
+#EXTINF:-1, Bein sports 3
+https://list.iptvcat.com/my_list/s/42412f445d7b448f57efb275c0b7d92c.m3u8
